@@ -1,0 +1,15 @@
+#include<stdio.h>
+Void main() 
+{
+int 1,2,3,4,5,rs
+1=pizza, rs =239;
+2=bruger, rs=129;
+3=pasta , rs=179;
+4=french fries, rs=99;
+5=sandwich , rs=149;
+Printf("1\n) ;
+Printf("2\n") ;
+Printf("3\n") ;
+Printf("4\n") ;
+Printf("5\n") ;
+}
