@@ -1,0 +1,11 @@
+#include<stdio.h>
+Void main() 
+{
+Char str[20]="Mycaptian";
+Printf("the given string is %s\n", str) ;
+Printf("after reversing the string is %s\n", strrev(str)) ;
+}
+Char str1[20]
+{
+Strcpy(str1, "mycapitan") ;
+}
