@@ -1,0 +1,20 @@
+#include<stdio.h>
+Void main() 
+{
+Struct employee
+{
+Char name;
+Float salary;
+int phone number;
+int age;
+}s;
+for(i=0;i<21;i++) 
+{
+struct employee[20];
+Printf("enter details\n") ;
+Printf("enter name%s\n") ;
+printf("enter salary%f\n") ;
+Printf ("enter phone number%d\n") ;
+printf("enter age%d\n") ;
+}
+}
